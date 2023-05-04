@@ -1,4 +1,4 @@
-# DesafioDIO-UXUI-Orkut
+# DesafioDIO-UX/UI-Orkut
 Projeto criado para estudo - interface Orkut - desafio DIO
 
 ## LINK PARA PROJETO NO FIGMA
